@@ -16,3 +16,5 @@ A grid layout showcases featured products. Each product card includes an image, 
 Footer:
 
 The footer contains basic information like copyright.
+
+Deployment link : https://ananya272.github.io/Amazon-Clone/
